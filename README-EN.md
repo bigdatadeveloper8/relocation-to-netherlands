@@ -2,32 +2,32 @@
 
 # Guide to work immigration to the Netherlands
 
-- [Guide to work immigration to the Netherlands] (#guide-work-immigration-to-the-Netherlands)
-- [Frequently Asked Questions] (#FAQs)
-- [Part I: Translation of documents] (#part-first-translation-of-documents)
+- [Guide to work immigration to the Netherlands] 
+- [Frequently Asked Questions] 
+- [Part I: Translation of documents] 
 - [Second part: action to apply for a work permit by the Netherlands Immigration Agency (IND)]
-- [Third part: receiving a visa] (#third-part-receiving-a-visa)
-- [Part IV: Preparing to fly to Holland] (#part-four-preparation-for-flight-to-Holland)
-   - [1. temporary residence (#1-temporary-residence)
-   - [2. Buying plane tickets (#2-buying-plane-tickets)
-   - [3. Arriving at temporary/permanent residence (#3-arriving-at-temporary-residence)
-   - [4. Soldier] (#4-Soldier)
-- [Part 5: Life in the Netherlands] (#Part-5-Life-in-the-Holland)
-   - [1. Finding a home for a permanent life (#1-Finding-a-home-for-a-permanent-life)
-     - [1.1 house contracts] (#11-house-contracts)
-   - [2. Buy a SIM card with a Dutch number (#2-buy-a-SIM-card-with-a-Dutch-number)
-   - [3. Get a public transport card (#3-get-a-public-transport-card)
-   - [4. Opening a bank account (#4-opening-a-bank-account)
-     - [4.1 Revolut account] (#41-revolut-account)
-     - [4.2 ABN bank account] (#42-abn-bank-account)
-   - [5. Receive residence card (#5-receive-residence-card)
+- [Third part: receiving a visa] 
+- [Part IV: Preparing to fly to Holland] 
+   - [1. temporary residence 
+   - [2. Buying plane tickets 
+   - [3. Arriving at temporary/permanent residence 
+   - [4. Soldier] 
+- [Part 5: Life in the Netherlands]
+   - [1. Finding a home for a permanent life
+     - [1.1 house contracts] 
+   - [2. Buy a SIM card with a Dutch number
+   - [3. Get a public transport card 
+   - [4. Opening a bank account
+     - [4.1 Revolut account] 
+     - [4.2 ABN bank account] 
+   - [5. Receive residence card 
    - [6. Registering an address in the municipality and receiving a BSN] (#6-registering an address in the municipality and receiving a BSN)
-   - [7. Activate DigiD] (#7-enable-digid)
-   - [8. Medical insurance (#8-medical-insurance)
-   - [9. Registering with GP (#9-registering-with-gp)
-- [Appendix 1: All steps in one table] (#Appendix-1-all-steps-in-one-table)
+   - [7. Activate DigiD] 
+   - [8. Medical insurance
+   - [9. Registering with GP
+- [Appendix 1: All steps in one table]
 - [Appendix 2: list of practical applications in the Netherlands]
-- [Appendix 3: Soldier] (#Appendix-3-Soldier)
+- [Appendix 3: Soldier]
 
 
 Congratulations 🎉 If you are reading this document, you probably received a job offer with the possibility of moving to the Netherlands and took the first step. At first, I will try to answer some of the basic questions that may come to the mind of most friends. In the following, I will go into details according to the schedule and the steps you must go through.
